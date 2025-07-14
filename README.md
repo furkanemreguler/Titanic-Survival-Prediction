@@ -1,4 +1,4 @@
-# Titanic Survival Prediction
+# Titanic Survival Prediction 
 
 This repository contains a complete end-to-end data science workflow to predict passenger survival on the Titanic using Python and scikit-learn. The process includes data cleaning, feature engineering, preprocessing pipelines, model training, evaluation, and submission generation for Kaggle.
 
